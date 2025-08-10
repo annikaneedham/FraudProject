@@ -1,0 +1,18 @@
+# Python/venv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Model artifact (delete this line if you want to TRACK the model)
+*.pkl
+
+# Env files
+.env
