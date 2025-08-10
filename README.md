@@ -1,5 +1,5 @@
 TRY IT OUT: 
-[![Open in Streamlit](https://annikaneedham-fraudproject-fraud-detection-2tg4pp.streamlit.app/)
+https://annikaneedham-fraudproject-fraud-detection-2tg4pp.streamlit.app/
 
 
 Fraud Detection — Streamlit App + scikit-learn Pipeline
