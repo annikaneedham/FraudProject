@@ -11,8 +11,5 @@ __pycache__/
 # OS
 .DS_Store
 
-# Model artifact (delete this line if you want to TRACK the model)
-*.pkl
-
 # Env files
 .env
