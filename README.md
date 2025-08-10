@@ -1,3 +1,7 @@
+TRY IT OUT: 
+[![Open in Streamlit](https://annikaneedham-fraudproject-fraud-detection-2tg4pp.streamlit.app/)
+
+
 Fraud Detection — Streamlit App + scikit-learn Pipeline
 An end-to-end demo that predicts whether a transaction is fraudulent (1) or not (0) using a scikit-learn pipeline, with a simple Streamlit UI.
 
@@ -108,4 +112,4 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 
 streamlit run fraud_detection.py
-# App: http://localhost:8501
+
