@@ -97,7 +97,6 @@ Predict button builds a one-row DataFrame with columns:
 type, amount, oldbalanceOrg, newbalanceOrig, oldbalanceDest, newbalanceDest,
 feeds it to model.predict(), and displays the class (0/1) and a friendly message.
 
-Heads-up: your app currently lists "DEPOSIT" as a transaction option. Many Kaggle versions use "CASH_IN". Make sure the label matches whatever the model was trained on. If the encoder wasn’t set with handle_unknown="ignore", an unseen label will error. (Change "DEPOSIT" → "CASH_IN" if needed.)
 
 Run locally
 powershell
