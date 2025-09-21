@@ -5,7 +5,7 @@ https://annikaneedham-fraudproject-fraud-detection-2tg4pp.streamlit.app/
 Fraud Detection — Streamlit App + scikit-learn Pipeline
 An end-to-end demo that predicts whether a transaction is fraudulent (1) or not (0) using a scikit-learn pipeline, with a simple Streamlit UI.
 
-This project follows the tutorial flow: EDA → feature engineering → model training/evaluation → export pipeline → Streamlit app.
+This project follows the flow: EDA → feature engineering → model training/evaluation → export pipeline → Streamlit app.
 
 Dataset
 Source (Kaggle): Fraud Detection Dataset
